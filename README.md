@@ -45,8 +45,8 @@
 <br>
 
 <a href="https://github.com/accorado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=accorado&theme=dark&show_icons=true&count_private" />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accorado&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=accorado&theme=dark&show_icons=true&count_private" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accorado&theme=dark" />
 </a>
 
 ---
