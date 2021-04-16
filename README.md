@@ -44,6 +44,10 @@
 <br>
 <br>
 
+<a href="https://github.com/accorado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=accorado&theme=dark&show_icons=true&count_private" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accorado&theme=dark" />
+</a>
 
 ---
 
